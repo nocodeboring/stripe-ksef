@@ -1,5 +1,7 @@
 # Integracja Stripe z KSeF — przewodnik techniczny dla developerów
 
+[![stripto.pl — automatyzacja fakturowania Stripe z KSeF](https://stripto.pl/og.png)](https://stripto.pl)
+
 [![Stripe](https://img.shields.io/badge/Stripe-API-635BFF?logo=stripe&logoColor=white)](https://stripe.com/docs/api)
 [![KSeF](https://img.shields.io/badge/KSeF-FA(3)-2C5282)](https://ksef.podatki.gov.pl/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
